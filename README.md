@@ -6,14 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojinaamatya&label=Profile%20views&color=0e75b6&style=flat" alt="rojinaamatya" /> </p>
 
+- ❤️ I love **Developing and Researching**
+
 - 🔭 I’m currently working on **SpringBoot applications**
 
 - 🌱 I’m currently learning **Advanced Java Frameworks**
 
 - 💬 Ask me about **Java, Spring Framework, Hibernate**
 
-- 📫 How to reach me **rojinaamatya1432@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/rojinaamatya/**
 
+- 💭 My dream is to put my skills and knowledge gained into use and make something **productive** and **innovative** that can solve problems our world is dealing with 
 - ⚡ Fun fact: I speak 4 languages ( English, Hindi, Nepali, Newari)
 
 <h3 align="left">Connect with me:</h3>
